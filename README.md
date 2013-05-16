@@ -6,7 +6,7 @@ An python web app + arduino project micro
 
 for any difficulties reach me
 
-Facebook-www.facebook.com/rohit.jain.1993
+<a href="www.facebook.com/rohit.jain.1993" target=_blank>Facebook</a>
 
 Email-rj.2929@yahoo.com 
 
