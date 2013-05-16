@@ -4,7 +4,13 @@ feedyrss
 An python web app + arduino project micro 
 
 
-for any difficulties reach me here{ (www.facebook.com/rohit.jain.1993)/ (rj.2929@yahoo.com) }
+for any difficulties reach me
+
+Facebook-www.facebook.com/rohit.jain.1993
+
+Email-rj.2929@yahoo.com 
+
+
 
  it is a python  + arduino based rss feeder !!!
 On lcd  will show rss feeds from facebook + gmail  + blink led(s) (differnt leds for different streams ) + play sound 
