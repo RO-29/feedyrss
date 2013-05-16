@@ -24,10 +24,15 @@ I have also tried to make a simple web app for configuring the user info ...!!
 just paste the contents of cgi bin folder located in config folder into you cgi-bin folder and remaining files in your public_html folder...
 and rest you can figure it out ....
 
-Change some setttngs in settings.py -(com port or dev device(linux)) 
+Change some setttngs in settings.py -(com port or dev device(linux))
+
 Open rss.py to make neccesary changes located in python folder 
+
 Change neccessary database settings in dbconfig.py located in config folder
+
 Also make sure to install the neccesary dependencies in dependencies folder
+
 Software required -- arduino + python + its dependencies
+
 Hardware required -Arduino uno board + leds + pizo speaker +lcd +wires 
   
